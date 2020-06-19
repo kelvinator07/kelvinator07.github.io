@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac8b69c40dbf7f18cd02c629db4e1f25",
+    "revision": "09eb536e9db9b808943c053566a06499",
     "url": "/index.html"
   },
   {
-    "revision": "4e9badb5b0150b02e763",
+    "revision": "04929eede515efeb23a2",
     "url": "/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "f0e28678c55ca8c535c0",
+    "revision": "3c65a1bcaacee2c0a43f",
     "url": "/static/css/main.f72bad04.chunk.css"
   },
   {
-    "revision": "4e9badb5b0150b02e763",
-    "url": "/static/js/2.daed8951.chunk.js"
+    "revision": "04929eede515efeb23a2",
+    "url": "/static/js/2.b835b5ce.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.daed8951.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b835b5ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0e28678c55ca8c535c0",
-    "url": "/static/js/main.f244a26d.chunk.js"
+    "revision": "3c65a1bcaacee2c0a43f",
+    "url": "/static/js/main.98aeb149.chunk.js"
   },
   {
     "revision": "c47c325c67104dfb937c",
@@ -34,6 +34,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29dfa06bef4c6d0af0340a1f07d1797d",
     "url": "/static/media/kelvin-logo.29dfa06b.png"
+  },
+  {
+    "revision": "ae8133a5b144d8293b4ec132e5628433",
+    "url": "/static/media/mobile-1.ae8133a5.png"
+  },
+  {
+    "revision": "6e5b8ab44f38aec3475a72e9831006c0",
+    "url": "/static/media/mobile-2.6e5b8ab4.png"
+  },
+  {
+    "revision": "46ee20978661572f29c11e21b43f5805",
+    "url": "/static/media/mobile-3.46ee2097.png"
   },
   {
     "revision": "56a12d36b5cd84ec2ef6750866d07017",
