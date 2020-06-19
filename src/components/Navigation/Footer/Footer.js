@@ -17,9 +17,9 @@ const footer = () => {
             </div> */}
             <div className="social-icons">
                 <ul>
-                    <li className=""><NavLink exact to="facebook.com/kelvinator05"> <span><FontAwesomeIcon icon={faFacebook} /></span></NavLink></li> 
-                    <li className=""><a href="#"> <span><FontAwesomeIcon icon={faTwitter} /></span></a></li> 
-                    <li className=""><a href="#"> <span><FontAwesomeIcon icon={faLinkedin} /></span></a></li>                 
+                    <li className=""><a href="https://facebook.com/kelvinator05" target="_blank"> <span><FontAwesomeIcon icon={faFacebook} /></span></a></li> 
+                    <li className=""><a href="https://twitter.com/kelvinator05" target="_blank"> <span><FontAwesomeIcon icon={faTwitter} /></span></a></li> 
+                    <li className=""><a href="https://www.linkedin.com/in/kelvinobukome/" target="_blank"> <span><FontAwesomeIcon icon={faLinkedin} /></span></a></li>                 
                 </ul>
             </div>
             <div>

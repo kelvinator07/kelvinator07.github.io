@@ -9,10 +9,10 @@ const about = (props) => {
 
                 <div className="section-title">
                     <h2>About</h2>
-                    <p>Kelvin is a computer science graduate with over 4 years of software development experience. I have worked with a couple of languages and tools during this time,
-                        expert level in languages like JAVA, Javascript, Typescript Languages. Frameworks that I have also worked with are Bootstrap, React,
-                        Angular, Wordpress, Android, Spring, NodeJS, Jenkins, Docker. I'm currently solving problems and creating new solutions in the financial tech space with SystemSpecs(REMITA) as a backend engineer.
-                        Also interested in the Devops space so I build, ship and scale features faster to production.</p>
+                    <p>Kelvin is a Computer Science graduate with over 4 years of software development experience. I have worked with a couple of languages and tools during this time,
+                        proficient level in languages like JAVA, Javascript, Typescript Languages. Frameworks that I have also worked with professionally are Bootstrap, React,
+                        Angular, Wordpress, Android, Spring, NodeJS, Jenkins, Docker. I'm currently solving problems and creating new solutions in the financial tech space with SystemSpecs (REMITA) as a Backend Engineer.
+                        Also interested in the Devops space so I can build, ship and scale features faster to production.</p>
                 </div>
 
                 <div className="row">
@@ -39,7 +39,7 @@ const about = (props) => {
                             <div className="col-lg-6">
                                 <ul>
                                     <li> <strong>Age:</strong> 20</li>
-                                    <li> <strong>Degree:</strong> OpenClassrooms &gt; Développeur(euse) d’application</li>
+                                    <li> <strong>Degree:</strong> OpenClassrooms &gt; Développeur(euse) d’application.</li>
                                     <li> <strong>Email:</strong> kelvinator4leo@gmail.com</li>
                                     <li> <strong>Freelance:</strong> Available</li>
                                 </ul>
