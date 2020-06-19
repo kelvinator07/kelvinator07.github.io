@@ -1,6 +1,6 @@
-Portfolio App By Geeky Kel for the Openclasrooms Full Stack Web Developer Course (Project Four).
+# Portfolio App By Geeky Kel for the Openclasrooms Full Stack Web Developer Course (Project Four).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
