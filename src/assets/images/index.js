@@ -1,0 +1,14 @@
+// export const Background = require('./portfolio/portfolio-1.png');
+export const First = require('./portfolio/portfolio-1.png');
+export const Second = require('./portfolio/portfolio-2.png');
+export const Third = require('./portfolio/portfolio-3.png');
+export const Fourth = require('./portfolio/portfolio-4.png');
+export const Fifth = require('./portfolio/portfolio-5.png');
+export const Sixth = require('./portfolio/portfolio-6.png');
+export const Seventh = require('./portfolio/portfolio-7.png');
+export const Eight = require('./portfolio/portfolio-8.png');
+export const Ninth = require('./portfolio/portfolio-9.png');
+export const Mobile1 = require('./portfolio/mobile-1.png');
+export const Mobile2 = require('./portfolio/mobile-2.png');
+export const Mobile3 = require('./portfolio/mobile-3.png');
+export const ProfileImage = require('./profile-img.png');

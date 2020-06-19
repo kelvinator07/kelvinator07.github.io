@@ -1,0 +1,62 @@
+.SideBar {
+    position: absolute;
+    width: 280px;
+    max-width: 70%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 200;
+    background-color: white;
+    padding: 32px 16px;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-out;
+    border: 3px solid #73AD21;
+
+}
+
+@media (max-width: 500px) {
+    .SideBar {
+        display: none;
+    }
+}
+
+/* .Open {
+    transform: translateX(0);
+}
+
+.Close {
+    transform: translateX(-100%);
+}
+*/
+.Logo {
+    height: 11%;
+    /* margin-bottom: 32px; */
+}
+
+.SideBar .profile span {
+    font-size: 20px;
+    color: #149ddd;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #dff3fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .SideBar nav ul {
+      list-style: none;
+  }
+
+  .SideBar nav ul li {
+    margin: 10px auto;
+}
+
+.SideBar .header a:hover,
+.SideBar .header a:active,
+.SideBar .header a.active {
+    color: black;
+}

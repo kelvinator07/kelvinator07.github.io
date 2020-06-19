@@ -1,0 +1,43 @@
+.ScrollArrow {
+    position: fixed; 
+    width: 100%;
+    bottom: 20px;
+    right: 10px;
+    height: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    z-index: 1000;
+    cursor: pointer;
+    animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+  }
+  
+  .ScrollArrow span:hover{
+    /* opacity: 1; */
+    /* color: #fff; */
+    background: #dff3fc;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0.5;
+    }
+  }
+
+  .ScrollArrow span {
+    font-size: 20px;
+    color: #0499df;
+    /* float: left; */
+    width: 44px;
+    height: 44px;
+    background: #dff3fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }

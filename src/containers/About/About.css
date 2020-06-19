@@ -1,0 +1,30 @@
+.About {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.About .content h3 {
+    font-weight: 700;
+    font-size: 26px;
+    color: #173b6c;
+  }
+  
+  .About .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .About .content ul li {
+    padding-bottom: 10px;
+  }
+  
+  .About .content ul i {
+    font-size: 20px;
+    padding-right: 2px;
+    color: #149ddd;
+  }
+  
+  .About .content p:last-child {
+    margin-bottom: 0;
+  }

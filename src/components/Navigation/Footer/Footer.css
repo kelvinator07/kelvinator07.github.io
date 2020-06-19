@@ -1,0 +1,51 @@
+.Footer {
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    bottom: 10px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* padding: 0 20px; */
+    box-sizing: border-box;
+    z-index: 90;
+    color: white;
+}
+
+.Footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Footer ul li {
+  padding: 0 10px;
+}
+
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}
+  
+  .Footer .back-to-top:hover {
+    color: #fff;
+    background: #2eafec;
+    transition: background 0.2s ease-in-out;
+  }
+
+  .Footer .social-icons span {
+    font-size: 20px;
+    color: #149ddd;
+    /* float: left; */
+    width: 44px;
+    height: 44px;
+    background: #dff3fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+  }
+  

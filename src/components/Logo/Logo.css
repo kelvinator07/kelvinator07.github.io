@@ -1,0 +1,11 @@
+.Logoo {
+    background-color: white;
+    /* padding: 2px; */
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.Logoo img {
+    height: 100%;
+}
