@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kelvinator07/kelvinator07.github.io/static/css/main.11d1a2cd.chunk.css",
+    "main.js": "/kelvinator07/kelvinator07.github.io/static/js/main.08bff511.chunk.js",
+    "main.js.map": "/kelvinator07/kelvinator07.github.io/static/js/main.08bff511.chunk.js.map",
+    "runtime-main.js": "/kelvinator07/kelvinator07.github.io/static/js/runtime-main.ebbdbe91.js",
+    "runtime-main.js.map": "/kelvinator07/kelvinator07.github.io/static/js/runtime-main.ebbdbe91.js.map",
+    "static/css/2.f98d7b13.chunk.css": "/kelvinator07/kelvinator07.github.io/static/css/2.f98d7b13.chunk.css",
+    "static/js/2.3efb7c43.chunk.js": "/kelvinator07/kelvinator07.github.io/static/js/2.3efb7c43.chunk.js",
+    "static/js/2.3efb7c43.chunk.js.map": "/kelvinator07/kelvinator07.github.io/static/js/2.3efb7c43.chunk.js.map",
+    "static/js/3.bdf8d6da.chunk.js": "/kelvinator07/kelvinator07.github.io/static/js/3.bdf8d6da.chunk.js",
+    "static/js/3.bdf8d6da.chunk.js.map": "/kelvinator07/kelvinator07.github.io/static/js/3.bdf8d6da.chunk.js.map",
+    "index.html": "/kelvinator07/kelvinator07.github.io/index.html",
+    "static/css/2.f98d7b13.chunk.css.map": "/kelvinator07/kelvinator07.github.io/static/css/2.f98d7b13.chunk.css.map",
+    "static/css/main.11d1a2cd.chunk.css.map": "/kelvinator07/kelvinator07.github.io/static/css/main.11d1a2cd.chunk.css.map",
+    "static/js/2.3efb7c43.chunk.js.LICENSE.txt": "/kelvinator07/kelvinator07.github.io/static/js/2.3efb7c43.chunk.js.LICENSE.txt",
+    "static/media/kelvin-logo.1abaff0d.png": "/kelvinator07/kelvinator07.github.io/static/media/kelvin-logo.1abaff0d.png",
+    "static/media/logo.103b5fa1.svg": "/kelvinator07/kelvinator07.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebbdbe91.js",
+    "static/css/2.f98d7b13.chunk.css",
+    "static/js/2.3efb7c43.chunk.js",
+    "static/css/main.11d1a2cd.chunk.css",
+    "static/js/main.08bff511.chunk.js"
+  ]
+}
